@@ -3,7 +3,7 @@ This artifact set includes two ordersets developed for the management of the new
 
 # General Information 
 ## Artifact Type
-Order Set
+Multi-modal: Order Set, Documentation Template, Patient Education
 ## Creation Date
 11/01/2017
 ## Last Update
