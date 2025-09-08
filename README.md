@@ -1,5 +1,5 @@
 # Newcomer-Health-CDS
-This artifact set includes two ordersets developed for the management of the newly arriving refugee patient in the United States of America. These orderset was developed based upon CDC guidelines for the management of the newly arrived refugee. 
+This artifact set includes two ordersets developed for the management of the newly arriving refugee patient in the United States of America. The content was developed based upon CDC guidelines for the management of the newly arrived refugee. 
 Each order set contains a list of orders,a documentation template, and a set of recomended diagnoses. Orderset options are constrained based on the age and gender of the patient.
 
 # General Information 
